@@ -1,7 +1,7 @@
 {
     "description": "Normal Fish",
     "external_url": "https://forum.openzeppelin.com",
-    "image": "https://jirat-praneat.github.io/fishing/sprite/Normal_Fish.png",
+    "image": "http://ipfs.io/ipfs/bafybeigtjwd5cjx6jiwx2f4o46yoqhgxl7enbwbxygkyaczixvkeivttum/Normal_Fish.png",
     "name": "Normal Fish",
     "rarity": "Common"
 }
